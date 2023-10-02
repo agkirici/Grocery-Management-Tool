@@ -1,5 +1,5 @@
 # Grocer Management Tool
-## A basic Python script that sorts your grocery list by where items are located in a specific store.
+A basic Python script that sorts your grocery list by where items are located in a specific store.
 
 # Grocery Management Tool - Simplifying Your Shopping
 Are you tired of navigating chaotic grocery stores with an unorganized shopping list? The Grocery Management Tool is here to make your grocery shopping experience smoother and more efficient.
